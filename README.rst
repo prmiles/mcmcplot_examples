@@ -1,7 +1,7 @@
 Tutorials for Python package `mcmcplot`
 ---------------------------------------
 
-These tutorials are designed to accompany the Python package `mcmcplot <https://github.com/prmiles/mcmcplot/wiki>`_.
+These tutorials are designed to accompany the Python package `mcmcplot <https://github.com/prmiles/mcmcplot/wiki>`_.  The "index.ipynb" file is a good place to start in order to figure out what each tutorial has to offer.
 
 To work interactively with the example notebooks, launch them with Binder!
 
