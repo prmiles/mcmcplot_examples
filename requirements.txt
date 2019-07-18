@@ -1,1 +1,1 @@
-mcmcplot>=1.0.0
+mcmcplot>=1.0.1
